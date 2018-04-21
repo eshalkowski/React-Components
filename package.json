@@ -1,0 +1,27 @@
+{
+  "name": "react-components",
+  "version": "1.0.0",
+  "description": "Various react components to be shared between applications",
+  "main": "index.js",
+  "dependencies": {
+    "npm": "^5.8.0",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0"
+  },
+  "scripts": {
+    "storybook": "start-storybook -p 9001 -c .storybook",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eshalkowski/React-Components.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eshalkowski/React-Components/issues"
+  },
+  "homepage": "https://github.com/eshalkowski/React-Components#readme"
+}
